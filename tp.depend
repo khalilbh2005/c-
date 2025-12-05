@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1764943200 source:p:\saclay\c++2\tp3+classe\tp\appartement.cpp
+	<vector>
+	<iostream>
+	"piece.h"
+	"appartement.h"
+	<string>
+
+1764846372 p:\saclay\c++2\tp3+classe\tp\piece.h
+	<string>
+
+1764941068 p:\saclay\c++2\tp3+classe\tp\appartement.h
+	<string>
+	<vector>
+	"piece.h"
+	<stdexcept>
+
+1764846372 source:p:\saclay\c++2\tp3+classe\tp\piece.cpp
+	"piece.h"
+	<iostream>
+
+1764943260 source:p:\saclay\c++2\tp3+classe\tp\main.cpp
+	"piece.h"
+	<iostream>
+	<vector>
+	"piece.h"
+	"appartement.h"
+	<string>
+
